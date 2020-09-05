@@ -14,7 +14,7 @@
     "element-ui": "^2.11.1",
     "html2canvas": "^1.0.0-rc.5",
     "moment": "^2.24.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "px2rem-loader": "^0.1.9",
     "sass-loader": "^7.1.0",
     "videojs-flash": "^2.2.1",
