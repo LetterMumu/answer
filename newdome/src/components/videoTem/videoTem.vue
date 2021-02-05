@@ -13,7 +13,6 @@ export default {
   },
   data() {
     return {
-      id: "id"
     };
   },
   mounted() {
@@ -26,9 +25,7 @@ export default {
           type: "flv",
           url: `http://localhost:8000/live/${this.studentId}.flv`
         });
-        // console.log(this.id);
         flvPlayer.attachMediaElement(id);
-
         flvPlayer.load(); //加载
       }
     }
