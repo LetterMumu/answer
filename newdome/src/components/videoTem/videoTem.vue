@@ -5,7 +5,6 @@
   </section>
 </template>
 <script>
-import { login } from "@/api/api";
 export default {
   props: {
     studentId: "",
